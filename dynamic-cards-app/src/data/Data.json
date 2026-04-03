@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cricketer",
+    "player": "Virat Kohli",
+    "image": "/images/virat.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Footballer",
+    "player": "Lionel Messi",
+    "image": "/images/messi.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tennis player",
+    "player": "Roger Federer",
+    "image": "/images/roger.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Badminton player",
+    "player": "PV Sindhu",
+    "image": "/images/pv.jpg"
+  }
+]
